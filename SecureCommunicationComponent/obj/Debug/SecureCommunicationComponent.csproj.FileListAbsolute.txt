@@ -1,0 +1,5 @@
+C:\Code\Repositories\Git\E237\PoliceDispatcherClient\SecureCommunicationComponent\bin\Debug\SecureCommunicationComponent.dll
+C:\Code\Repositories\Git\E237\PoliceDispatcherClient\SecureCommunicationComponent\bin\Debug\SecureCommunicationComponent.pdb
+C:\Code\Repositories\Git\E237\PoliceDispatcherClient\SecureCommunicationComponent\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Repositories\Git\E237\PoliceDispatcherClient\SecureCommunicationComponent\obj\Debug\SecureCommunicationComponent.dll
+C:\Code\Repositories\Git\E237\PoliceDispatcherClient\SecureCommunicationComponent\obj\Debug\SecureCommunicationComponent.pdb
